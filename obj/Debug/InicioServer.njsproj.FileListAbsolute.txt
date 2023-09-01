@@ -1,0 +1,3 @@
+C:\Users\peral\OneDrive - UTN Bahia Blanca\Programas en JavaScript\InicioServer\obj\Debug\InicioServer.njsproj.AssemblyReference.cache
+C:\Users\peral\OneDrive - UTN Bahia Blanca\Programas en JavaScript\InicioServer\obj\Debug\InicioServer.njsproj.CoreCompileInputs.cache
+C:\Users\peral\OneDrive - UTN Bahia Blanca\Programas en JavaScript\InicioServer\bin\Microsoft.NodejsTools.WebRole.dll
