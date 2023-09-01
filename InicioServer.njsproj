@@ -30,8 +30,14 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include="app.js" />
+    <Content Include="models\server.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="package.json" />
     <Content Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="models\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
 </Project>
