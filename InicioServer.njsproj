@@ -30,14 +30,26 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include="app.js" />
+    <Content Include="controllers\demo.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="models\server.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="package.json" />
+    <Content Include="public\index.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="README.md" />
+    <Content Include="routes\demo.js">
+      <SubType>Code</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="models\" />
+    <Folder Include="controllers\" />
+    <Folder Include="public\" />
+    <Folder Include="routes\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
 </Project>
