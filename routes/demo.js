@@ -9,6 +9,7 @@ rutas.get('/pelicula/:id', getPelicula);
 rutas.get('/estrenos', getEstrenos);
 rutas.get('/actores', getActores);
 rutas.get('/nombre/:name', getOrigenNombre);
+rutas.get('/guionistas', getGuionistas);
 
 
 module.exports = rutas;
